@@ -89,7 +89,9 @@ Außerdem wollte ich noch wissen, ob die Twitter-API bei der Suche ähnlich zum 
 | 01.01.20 - 31.07.20 (7 Monate)  | 90.014       | 23       | 2        | 5.140      | 43.858            |             |             |             |
 | 01.03.20 - 31.07.20 (5 Monate)  | 111.600      | 33       | 3        | 7.372      | 58.653            |             |             |             |
 | 01.03.20 - 28.02.21 (12 Monate) | 243.781      | 70       | 5        | 15.178     | 153.153           | 3586        | 343         | 285         |
-Die drei Ergenissdateien mit den exakten Queries befinden sich hier:
+
+
+Die drei Ergebnis-Dateien mit den exakten Queries befinden sich hier:
 [tweetcount-01.01.2020-31.07.2020.txt](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/data/tweetcount-01.01.2020-31.07.2020.txt)
 [tweetcount-01.03.2020-31.07.2020.txt](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/data/tweetcount-01.03.2020-31.07.2020.txt)
 [tweetcount-01.03.2020-28.02.2021.txt](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/data/tweetcount-01.03.2020-28.02.2021.txt)
@@ -97,13 +99,13 @@ Die drei Ergenissdateien mit den exakten Queries befinden sich hier:
 #### Gedanken dazu
 
 * Das Tweet-Volumen zu den Hashtags `\#twitterlehrerzimmer, \#Twitterlehrerzimmer und \#twlz` sowohl über 5, 7, als auch 12 Monate während der ersten Lockdowns ist  groß genug, um über diese Themen inhaltliche Auswertungen machen zu können
-* Wird jedoch das Themenfeld *Dyslexie* kombiniert, reicht vermutlich sogar ein Zeitraum von 12 Monaten nicht aus. Hier wurden nur `70` Tweets gezählt. Lässt man das Stichwort `LRS` weg, sogar nur `5` 
+* Wird jedoch das Themenfeld *Dyslexie* kombiniert, reicht vermutlich sogar ein Zeitraum von 12 Monaten nicht aus. Hier wurden nur `70` Tweets gezählt. Lässt man das Stichwort `LRS` weg, sogar nur `5`
 * Die Zeiträume 5, 7,  und 12 Monate während der ersten Lockdowns würden auch ausreichen, um nur das Themenfeld *Dyslexie* ohne die  Hashtags `\#twitterlehrerzimmer, \#Twitterlehrerzimmer und \#twlz`zu betrachten. Allerdings ist das Stichwort `LRS` vermutlich zu generisch. Damit sollte bei der Untersuchung später umgegangen werden: zum Beispiel durch Einschränkung auf Deutsch (es könnte immernoch die Ergebnisse verfälschen) oder durch Weglassen aus der Suche.
 * Es muss sich vermutlich entschieden werden was betrachtet werden soll:
     * Twitterlehrerzimmer
     * Dyslexie
     * Zeitraum ausweiten
-    
+
 * Die Begriffe *Lese-Rechtschreibschwäche* und  *Lese- /Rechtschreibschwäche* können getrennt untersucht werden
 
 ---
