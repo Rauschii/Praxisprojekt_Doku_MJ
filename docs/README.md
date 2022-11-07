@@ -111,6 +111,28 @@ Die drei Ergebnis-Dateien mit den exakten Queries befinden sich hier:
 
 * Die Begriffe *Lese-Rechtschreibschwäche* und  *Lese- /Rechtschreibschwäche* können getrennt untersucht werden
 
+## 7.11.2022
+### Praxis
+#### Vorhaben
+* Daten mit der Library Twarc statt mit Tweepy auslesen (um eine Fehlerquelle auszuschließen und die gleichen Datensätze zu bekommen wie beim Tweet Count)
+* Datensätze mit variablen Zeiträumen und Queries erstellen können mit für das Projekt möglicherweise interessanten Felder
+
+#### Umsetzung
+* die Queries A-H vom Messen der Tweet Volumen sind zur Wiederverwendung in die Kondigurations-Datei ausgelagert worden
+* Erstellung des Jupyter Notebooks [search_tweets.ipynb](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/search_tweets.ipynb), um Datensaätze aus variablen Zeiträumen und mit variablen Queries erstellen zu können
+	* Speicherung als .json
+	* Möglichkeit, die .json - Dateien als Dataframe wieder zu laden
+
+#### Gedanken dazu
+* das Laden und Aufbereiten der Datensätze dauert bei mehr als 100 Tweets recht lang. Es lohnt sich, sich vorher zu überlegen, welche Felder im Datensatz ausgelesen werden sollen.
+* Bei der kleinen Stichprobe hat sich bereits gezeigt, dass es sich lohnt, auf die Sprache "Deutsch" einzuschränken, auch "Dyslexie" wird viel z.B. auf französisch verwendet
+* Mögliche interessante Fragen:
+	* Verhältnis Reichweite (Follower, Tweetmenge insgesamt) und Qualität der Tweets über Dyslexie
+	* Verlauf von Dyslexie-Themen + #Twitterlehrerzimmer über einen längeren Zeitraum (vor-Corona, ab 03/20, 2021, 2022)
+		* Menge
+		* Qualität
+	* Twitters gut/schlecht Algorithmus und "eigene" Themen-Cluster vergleichen: Wird eher gut oder eher schlecht über Dyslexie geschrieben?
+
 ---
 
 # Meeting-Protokolle
@@ -124,7 +146,7 @@ _Das Sammeln über Twitterlehrerzimmer Twlz im best Case scenario wird sich übe
 * Theoretisches Einarbeiten
 - [Wiki](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/Literatur/Wiki%20MLCluster.html)
 - [Masterarbeit](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/Literatur/Dyslexia%20and%20Twitter.pdf)
-- Script  DSC Data Science
+- Script DSC Data Science
 
 ####  Technisches
 * Klärung API: Welches API-Level ist für das Projekt nötig? Reicht Elevated oder muss es Academic Research sein?
