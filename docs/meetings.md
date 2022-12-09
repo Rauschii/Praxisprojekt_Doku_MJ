@@ -77,5 +77,13 @@ TwitterLehrerZimmer2022/blob/main/search_recent_tweets.ipynb):
 	* Tweetvolumen für die neuen Queries bekommen
 	* einzelne Queries stichprobenartig als Datensatz zusammenstellen
 
+## 09.12.2022
+* Neuerungen der beiden Abfrage-Prorgramme [count-tweetVolume.ipynb](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/count-tweetVolume.ipynb) und [search_tweets.ipynb](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/search_tweets.ipynb) vorgestellt (siehe [Projektprotokoll vom 13. und 14.11.2022](./README.md?id=_13-amp-14112022))
+* Weiteres Vorgehen diskutiert:
+	* Die Ergebnisse der Kombination aus Dyslexie (in irgendeiner Form) **und** #Twitterlehrerzimmer (in irgendeiner Form) sind für ein Jahr nachwievor eher wenig (siehe [Tweetcount-Tabelle](./data/tweetcount-01.03.2020-28.02.2021.md) Queries 9-14 und 21-24)
+	* Welche Fragestellungen könnten interessant sein? (siehe [Gedanken dazu vom Projekt-Protokoll 7.11.2022](./README.md?id=gedanken-dazu-1))
+	* nach weiteren möglichen Terminen noch in 2022 gesucht (20.-23.12. oder 27.-30.12.) - Frau Weigand versucht, mit Frau Rauschenbergen einen Termin zu finden
+
+
 
 

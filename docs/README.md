@@ -126,7 +126,7 @@ Die drei Ergebnis-Dateien mit den exakten Queries befinden sich hier:
 #### Gedanken dazu
 * das Laden und Aufbereiten der Datensätze dauert bei mehr als 100 Tweets recht lang. Es lohnt sich, sich vorher zu überlegen, welche Felder im Datensatz ausgelesen werden sollen.
 * Bei der kleinen Stichprobe hat sich bereits gezeigt, dass es sich lohnt, auf die Sprache "Deutsch" einzuschränken, auch "Dyslexie" wird viel z.B. auf französisch verwendet
-* Mögliche interessante Fragen:
+* **Mögliche interessante Fragen**:
 	* Verhältnis Reichweite (Follower, Tweetmenge insgesamt) und Qualität der Tweets über Dyslexie
 	* Verlauf von Dyslexie-Themen + #Twitterlehrerzimmer über einen längeren Zeitraum (vor-Corona, ab 03/20, 2021, 2022)
 		* Menge
@@ -146,4 +146,5 @@ Die drei Ergebnis-Dateien mit den exakten Queries befinden sich hier:
 	* Ergebnisse werden zusammengefasst und in einer .json Datei und in einer .md-Datei exportiert
 * [search_tweets.ipynb](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/search_tweets.ipynb) erweitert
 	* Datensatz wird zu besseren Lesbarkeit zusätzlich zum .json auch als .md-Datei exportiert
+* .json-Dateien dienen zur späteren Verarbeitung, .md-Dateien zur besseren Lesbarkeit
 * Alle Ergebnisse sind in das Projekt-Protokoll eingebunden
