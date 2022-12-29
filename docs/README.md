@@ -148,3 +148,13 @@ Die drei Ergebnis-Dateien mit den exakten Queries befinden sich hier:
 	* Datensatz wird zu besseren Lesbarkeit zusätzlich zum .json auch als .md-Datei exportiert
 * .json-Dateien dienen zur späteren Verarbeitung, .md-Dateien zur besseren Lesbarkeit
 * Alle Ergebnisse sind in das Projekt-Protokoll eingebunden
+
+## 29.12.2022
+### Praxis
+* Testcode gelöscht
+* Counter in [search_tweets.ipynb](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/search_tweets.ipynb) eingefügt zur besseren Überwachungsmöglichkeit beim erstellen des Datensets
+* Code der beiden Jupyter Notebooks [count-tweetVolume.ipynb](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/count-tweetVolume.ipynb) und [search_tweets.ipynb](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/search_tweets.ipynb) bereinigt
+* Navigation der Dokumentation repariert
+* Datenset aus der Queries 2 und 25 erststellt, exportiert
+* Datenset von Query 2 in Dokumentation eingebunden (Datenset von Query 25 ist 19MB groß, zu groß für die Dokumentation, kann im Projekt-Git eingesehen werden)
+	* Datenset aus Query 1 wird aus Performance-Gründen später erstellt

@@ -84,6 +84,17 @@ TwitterLehrerZimmer2022/blob/main/search_recent_tweets.ipynb):
 	* Welche Fragestellungen könnten interessant sein? (siehe [Gedanken dazu vom Projekt-Protokoll 7.11.2022](./README.md?id=gedanken-dazu-1))
 	* nach weiteren möglichen Terminen noch in 2022 gesucht (20.-23.12. oder 27.-30.12.) - Frau Weigand versucht, mit Frau Rauschenbergen einen Termin zu finden
 
+	## 20.12.2022
+
+	* Aktuellen Stand vorgestellt und mögliches weiteres Vorgehen bezüglich Bachelorarbeit diskutiert:
+
+	* #Twitterlehrerzimmer und der Begriffe rund um "Dyslexie" ergeben zusammen keine große Tweetmenge
+	* Die Tweets der Queries 1, 2 und 25 sollen der Ausgangspunkt werden für die Fragestellungen
+		* Welche Personen bzw. Personengruppen twitterten während der Pandemie 2020-2021 zum Thema Dyslexie? Lehrer:innen? Eltern? Betroffene? Wissenschaftler:innen?
+		* Welche Rolle spielt "Twitterlehrerzimmer"?
+		* Lassen sich automatisierte Abfragen dazu erstellen?
+	* Der methodischer Ansatz dazu ist Data Driven Science
+
 
 
 

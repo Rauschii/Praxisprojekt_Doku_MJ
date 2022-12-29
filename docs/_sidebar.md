@@ -2,6 +2,7 @@
 - [Meeting-Protokolle](../meetings.md)
 - Data
 	- [tweetcount 01.03.2020 28.02.2021](data/tweetcount-01.03.2020-28.02.2021.md)
+	- [query_2 2020 03 01 2021 02 28](data/query_2-2020-03-01-2021-02-28.md)
 	- [query_3 2020 03 01 2021 02 28](data/query_3-2020-03-01-2021-02-28.md)
 	- [query_7 2020 03 01 2021 02 28](data/query_7-2020-03-01-2021-02-28.md)
 	- [query_10 2020 03 01 2021 02 28](data/query_10-2020-03-01-2021-02-28.md)
