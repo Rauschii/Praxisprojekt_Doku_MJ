@@ -64,9 +64,9 @@ Erstellung einer Methode in Jupyter Notebook [search_recent_tweets.ipynb](https:
 
 |                                   | `A (nur Twlz)` | `B (+LRS)` | `C (-LRS)` |
 |-----------------------------------|----------------|------------|------------|
-| `01.01.20 - 31.07.20 (7 Monate)`  | `90.014`       | `23`       | `2`        |
-| `01.03.20 - 31.07.20 (5 Monate)`  | `111.600`      | `33`       | `3`        |
-| `01.03.20 - 28.02.21 (12 Monate)` | `243.781`      | `70`       | `5`        |
+| `01.03.20 - 31.07.20 (5 Monate)`  | `36.215`       | `23`       | `2`        |
+| `01.01.20 - 31.07.20 (7 Monate)`  | `44.037`       | `33`       | `3`        |
+| `01.03.20 - 28.02.21 (12 Monate)` | `127.962`      | `70`       | `5`        |
 ---
  Wegen der wenigen Ergebnisse bei den Kombinationen habe ich die Suche zusätzlich ohne die Hashtags rund um `Twitterlehrerzimmer`durchgeführt:
  * **(D)** mit den Wörtern `Dyslexie, Lese-Rechtschreibschwäche, Lese- Rechtschreibstörung ODER Lese- Rechtschreibschwäche`
@@ -75,9 +75,9 @@ Erstellung einer Methode in Jupyter Notebook [search_recent_tweets.ipynb](https:
 
 |                                   | `A (nur Twlz)` | `B (+LRS)` | `C (-LRS)` | `D (-Twlz )` | `E (-Twlz mit LRS)` |
 |-----------------------------------|----------------|------------|------------|--------------|---------------------|
-| `01.01.20 - 31.07.20 (7 Monate)`  | `90.014`       | `23`       | `2`        | `5.140`      | `43.858`            |
-| `01.03.20 - 31.07.20 (5 Monate)`  | `111.600`      | `33`       | `3`        | `7.372`      | `58.653`            |
-| `01.03.20 - 28.02.21 (12 Monate)` | `243.781`      | `70`       | `5`        | `15.178`     | `153.153`           |
+| `01.03.20 - 31.07.20 (5 Monate)`  | `36.215`       | `23`       | `2`        | `5.089`      | `43.258`            |
+| `01.01.20 - 31.07.20 (7 Monate)`  | `44.037`       | `33`       | `3`        | `7.312`      | `58.006`            |
+| `01.03.20 - 28.02.21 (12 Monate)` | `127.962`      | `70`       | `5`        | `15.178`     | `150.474`           |
 ---
 Weil das Ergebnis der Query **E**  mit dem Stichwort *LRS* über 12 Monate vergleichsweise hoch ist, habe noch zusätzlich eine Einschränkung auf die Sprache Deutsch vorgenommen:
 
@@ -90,9 +90,9 @@ Außerdem wollte ich noch wissen, ob die Twitter-API bei der Suche ähnlich zum 
 
 |                                   | `A (nur Twlz)` | `B (+LRS)` | `C (-LRS)` | `D (-Twlz )` | `E (-Twlz mit LRS)` | `F (lang:de)` | `G (+Leerz.)` | `H (-Leerz.)` |
 |-----------------------------------|----------------|------------|------------|--------------|---------------------|---------------|---------------|---------------|
-| `01.01.20 - 31.07.20 (7 Monate)`  | `90.014`       | `23`       | `2`        | `5.140`      | `43.858`            |               |               |               |
-| `01.03.20 - 31.07.20 (5 Monate)`  | `111.600`      | `33`       | `3`        | `7.372`      | `58.653`            |               |               |               |
-| `01.03.20 - 28.02.21 (12 Monate)` | `243.781`      | `70`       | `5`        | `15.178`     | `153.153`           | `3586`        | `343`         | `285`         |
+| `01.03.20 - 31.07.20 (5 Monate)`  | `36.215`       | `23`       | `2`        | `5.089`      | `43.258`            |               |               |               |
+| `01.01.20 - 31.07.20 (7 Monate)`  | `44.037`       | `33`       | `3`        | `7.312`      | `58.006`            |               |               |               |
+| `01.03.20 - 28.02.21 (12 Monate)` | `127.962`      | `70`       | `5`        | `15.178`     | `150.474`           | `3586`        | `343`         | `285`         |
 ---
 Die drei Ergebnis-Dateien mit den exakten Queries befinden sich hier:
 * [tweetcount-01.01.2020-31.07.2020.txt](https://github.com/Rauschii/TwitterLehrerZimmer2022/blob/main/data/tweetcount-01.01.2020-31.07.2020.txt)
